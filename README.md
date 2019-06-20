@@ -10,5 +10,5 @@ Para correr el código de este repositorio, debemos
 
 1. Clonar el repositorio, mediante `git clone` y el link del repositorio
 2. Crear un entorno virtual mediante virtualenv: `virtualenv --python=python3 venv` (si no está instalado, instalarlo con `sudo apt install virtualenv`)
-3. Instalar las dependencias mediante `pip3 install -r requirements.txt`
+3. Instalar las dependencias mediante `pip3 install -r requirements.txt` (si no está instalado, instalarlo con `sudo apt install python3-pip`)
 4. Correr el código mediante `python3 data-plot-perceptron.py`
