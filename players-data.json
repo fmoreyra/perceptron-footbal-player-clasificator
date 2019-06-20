@@ -1,0 +1,188 @@
+[
+    {
+      "player_name": "Tevez Carlos",
+      "player_type": "Forwards",
+      "player_match_played": "692",
+      "player_goals": "292"
+    },
+    {
+      "player_name": "Messi Lionel",
+      "player_type": "Forwards",
+      "player_match_played": "812",
+      "player_goals": "665"
+    },
+    {
+      "player_name": "Saviola Javier",
+      "player_type": "Forwards",
+      "player_match_played": "633",
+      "player_goals": "233"
+    },
+    {
+      "player_name": "Crespo Hernan",
+      "player_type": "Forwards",
+      "player_match_played": "606",
+      "player_goals": "273"
+    },
+    {
+      "player_name": "Palermo Martin",
+      "player_type": "Forwards",
+      "player_match_played": "633",
+      "player_goals": "306"
+    },
+    {
+      "player_name": "Palacios Rodrigo",
+      "player_type": "Forwards",
+      "player_match_played": "633",
+      "player_goals": "227"
+    },
+    {
+      "player_name": "Di Stefano Alfredo",
+      "player_type": "Forwards",
+      "player_match_played": "633",
+      "player_goals": "227"
+    },
+    {
+      "player_name": "Ronaldo Nazario",
+      "player_type": "Forwards",
+      "player_match_played": "518",
+      "player_goals": "352"
+    },
+    {
+      "player_name": "Ronaldo Cristiano",
+      "player_type": "Forwards",
+      "player_match_played": "804",
+      "player_goals": "601"
+    },
+    {
+      "player_name": "Pratto Lucas",
+      "player_type": "Forwards",
+      "player_match_played": "471",
+      "player_goals": "153"
+    },
+    {
+      "player_name": "Aguero Sergio",
+      "player_type": "Forwards",
+      "player_match_played": "628",
+      "player_goals": "355"
+    },
+    {
+      "player_name": "Gutierrez Teofilo",
+      "player_type": "Forwards",
+      "player_match_played": "429",
+      "player_goals": "355"
+    },
+    {
+      "player_name": "Ibrahimovic Zlatan",
+      "player_type": "Forwards",
+      "player_match_played": "766",
+      "player_goals": "554"
+    },
+    {
+      "player_name": "Eto'o Samuel",
+      "player_type": "Forwards",
+      "player_match_played": "762",
+      "player_goals": "371"
+    },
+    {
+      "player_name": "Drogba Didier",
+      "player_type": "Forwards",
+      "player_match_played": "684",
+      "player_goals": "295"
+    },
+    {
+      "player_name": "Mascherano Javier",
+      "player_type": "Defender",
+      "player_match_played": "610",
+      "player_goals": "5"
+    },
+    {
+      "player_name": "Schiavi Rolando",
+      "player_type": "Defender",
+      "player_match_played": "726",
+      "player_goals": "55"
+    },
+    {
+      "player_name": "Pique Gerar",
+      "player_type": "Defender",
+      "player_match_played": "547",
+      "player_goals": "51"
+    },
+    {
+      "player_name": "Heinze Gabriel",
+      "player_type": "Defender",
+      "player_match_played": "522",
+      "player_goals": "30"
+    },
+    {
+      "player_name": "Ruggieri Oscar",
+      "player_type": "Defender",
+      "player_match_played": "525",
+      "player_goals": "42"
+    },    
+    {
+      "player_name": "Ramos Sergio",
+      "player_type": "Defender",
+      "player_match_played": "687",
+      "player_goals": "89"
+    },
+    {
+      "player_name": "Mascherano Javier",
+      "player_type": "Defender",
+      "player_match_played": "610",
+      "player_goals": "5"
+    },
+    {
+      "player_name": "Puyol Carlos",
+      "player_type": "Defender",
+      "player_match_played": "475",
+      "player_goals": "16"
+    },  
+    {
+      "player_name": "Ayala Roberto",
+      "player_type": "Defender",
+      "player_match_played": "609",
+      "player_goals": "19"
+    },
+    {
+      "player_name": "Sorin Juan",
+      "player_type": "Defender",
+      "player_match_played": "429",
+      "player_goals": "50"
+    },
+    {
+      "player_name": "Gago Fernando",
+      "player_type": "Defender",
+      "player_match_played": "379",
+      "player_goals": "11"
+    },  
+    {
+      "player_name": "Bermudez Jorge",
+      "player_type": "Defender",
+      "player_match_played": "700",
+      "player_goals": "42"
+    },
+    {
+      "player_name": "Beckenbauer Franz",
+      "player_type": "Defender",
+      "player_match_played": "670",
+      "player_goals": "93"
+    },
+    {
+      "player_name": "Burdisso Nico",
+      "player_type": "Defender",
+      "player_match_played": "436",
+      "player_goals": "14"
+    },
+    {
+      "player_name": "Ze Roberto",
+      "player_type": "Defender",
+      "player_match_played": "613",
+      "player_goals": "52"
+    },
+    {
+      "player_name": "Roberto Carlos",
+      "player_type": "Defender",
+      "player_match_played": "527",
+      "player_goals": "69"
+    }
+  ]
